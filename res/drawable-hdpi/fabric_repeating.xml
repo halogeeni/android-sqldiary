@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--     background courtesy of Heliodor Jalba -->
+<!--     downloaded from subtlepatterns.com -->
+<!--     used under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license -->
+<!--     http://creativecommons.org/licenses/by-sa/3.0/ -->
+
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/fabric_of_squares_gray"
+    android:tileMode="repeat" />

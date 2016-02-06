@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_new_entry"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/create_entry" 
+        android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_menu_sortByTitle"
+        android:title="@string/sortByTitle"
+        android:showAsAction="never" />
+    
+    <item android:id="@+id/action_menu_sortByDate"
+       	android:title="@string/sortByDate" 
+       	android:showAsAction="never" />
+    
+</menu>
