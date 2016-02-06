@@ -1,3 +1,3 @@
-# android-tictactoe
+# android-sqldiary
 Android development course lab exercise
 
